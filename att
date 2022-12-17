@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/jrasaga/jrnet/main/att",
   "Sms": "https://raw.githubusercontent.com/jrasaga/jrnet/main/sms",
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vpn.jrnett.online",
-      "CheckUser": "http://20.201.113.181:8024/checkUser",
+      "CheckUser": "http://20.201.113.181:8080/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
