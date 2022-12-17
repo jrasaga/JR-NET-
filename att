@@ -1,1 +1,60 @@
-.
+{
+  "Version": "1.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível",
+  "UrlUpdate": "https://raw.githubusercontent.com/jrasaga/jrnet/main/att",
+  "Sms": "https://raw.githubusercontent.com/jrasaga/jrnet/main/sms",
+  "EmailFeedback": "acjrunior84@gmail.com",
+  "UrlContato": "https://t.me/AntonioJr84",
+  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "CheckUser": "true",
+  "Udp": [
+    {
+      "Porta": "7300"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "Servidor BR",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "vpn.jrnett.online",
+      "CheckUser": "http://sua_api",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "CLARO CLOUDFRONT",
+      "FLAG": "claro",
+      "Payload": "GET wss://dzpgwp0vgdvpl.cloudfront.net/ HTTP/1.1[crlf]Host: descomplica.com.br[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "dzpgwp0vgdvpl.cloudfront.net",
+      "ProxyIP": "descomplica.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO CLOUDFRONT",
+      "FLAG": "vivo",
+      "Payload": "GET wss://dzpgwp0vgdvpl.cloudfront.net/ HTTP/1.1[crlf]Host: recarga.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "dzpgwp0vgdvpl.cloudfront.net",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO CLOUDFLARE",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: Upagrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "Atendimento.descomplica.com.br",
+      "ProxyIP": "Atendimento.descomplica.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }
+  ]
+}
