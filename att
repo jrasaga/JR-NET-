@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/jrasaga/jrnet/main/att",
   "Sms": "https://raw.githubusercontent.com/jrasaga/jrnet/main/sms",
@@ -29,10 +29,10 @@
     {
       "Name": "CLARO CLOUDFRONT",
       "FLAG": "claro",
-      "Payload": "GET wss://dzpgwp0vgdvpl.cloudfront.net/ HTTP/1.1[crlf]Host: descomplica.com.br[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "GET wss://dzpgwp0vgdvpl.cloudfront.net/ HTTP/1.1[crlf]Host: planos3-assine-empresas.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "dzpgwp0vgdvpl.cloudfront.net",
-      "ProxyIP": "descomplica.com.br",
+      "ProxyIP": "planos3-assine-empresas.clarobrasil.mobi",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
