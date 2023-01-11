@@ -15,13 +15,13 @@
     },
     {
       "user_id": 27, 
-      "value": "#00000000", 
+      "value": "#50000000", 
       "id": 2165, 
       "name": "background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#50000000", 
+      "value": "#00000000", 
       "id": 39, 
       "name": "card_color"
     }, 
@@ -39,7 +39,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#ffffff", 
+      "value": "#4682B4", 
       "id": 42, 
       "name": "icon_color"
     }, 
