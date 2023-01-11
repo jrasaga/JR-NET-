@@ -10,12 +10,12 @@
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.imgur.com/T9Os0S8.png", 
+      "value": "https://i.imgur.com/Nwe8kTW.jpeg", 
       "name": "app_background_image"
     },
     {
       "user_id": 27, 
-      "value": "#50000000", 
+      "value": "#00000000", 
       "id": 2165, 
       "name": "background_color"
     }, 
@@ -39,7 +39,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#4682B4", 
+      "value": "#ffffff", 
       "id": 42, 
       "name": "icon_color"
     }, 
@@ -142,7 +142,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "SEJAM BEM VINDO(A)S AO GL TUNNEL MOD!!", 
+      "value": "SEJAM BEM VINDO(A)S JR[NET v2.1!!", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
