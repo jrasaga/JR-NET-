@@ -3,7 +3,7 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#ffffff\">GL TUNNEL MOD</font>", 
+      "value": "<font color=\"#ffffff\">JR[NET] v2.1</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
@@ -94,7 +94,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.imgur.com/h3UjRjh.png", 
+      "value": "https://i.imgur.com/uHcZJEf.png", 
       "id": 2386, 
       "name": "app_logo"
     },
@@ -142,7 +142,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "SEJAM BEM VINDO(A)S AO GL TUNNEL MOD!!", 
+      "value": "SEJAM BEM VINDO(A)S JR[NET] v2.1!!", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
