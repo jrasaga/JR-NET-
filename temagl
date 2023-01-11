@@ -33,7 +33,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#4682B4", 
+      "value": "#3355D1", 
       "id": 41, 
       "name": "button_color"
     }, 
@@ -70,7 +70,7 @@
 
     {
       "user_id": 27, 
-      "value": "#ffffff", 
+      "value": "#333333", 
       "id": 2382, 
       "name": "border_color"
     }, 
@@ -94,7 +94,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.imgur.com/LcZk8Hv.png", 
+      "value": "https://i.imgur.com/h3UjRjh.png", 
       "id": 2386, 
       "name": "app_logo"
     },
@@ -142,7 +142,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "SEJAM BEM VINDO(A)S JR[NET] v2.1!!", 
+      "value": "SEJAM BEM VINDO(A)S AO GL TUNNEL MOD!!", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
