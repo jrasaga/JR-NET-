@@ -21,13 +21,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#00000000", 
+      "value": "#50000000", 
       "id": 39, 
       "name": "card_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#4682B4", 
+      "value": "#ffffff", 
       "id": 40, 
       "name": "text_color"
     }, 
