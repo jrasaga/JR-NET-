@@ -3,7 +3,7 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#4682B4\">JR[NET] v2.1</font>", 
+      "value": "<font color=\"#ffffff\">JR[NET] v2.1</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
@@ -70,7 +70,7 @@
 
     {
       "user_id": 27, 
-      "value": "#4682B4", 
+      "value": "#ffffff", 
       "id": 2382, 
       "name": "border_color"
     }, 
