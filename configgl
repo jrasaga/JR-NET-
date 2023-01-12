@@ -152,7 +152,7 @@
 			{
 				"name": "CLARO 02 [CLOUDFRONT]",
 				"config_v2ray": "",
-				"server_hostname": "",
+				"server_hostname": "metadatadb.lab.smartcontent.clarobrasil.mobi",
 				"description": "Operadora Claro [Servidor Brasileiro]",
 				"username": "",
 				"server_port": 80,
