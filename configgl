@@ -47,7 +47,7 @@
 			{
 				"name": "TIM 01 [CLOUDFRONT]",
 				"SSH": "104.16.53.111",
-				"server_hostname": "104.16.53.111",
+				"server_hostname": "104.19.239.25",
 				"description": "Operadora Tim [Servidor Brasileiro]",
 				"username": "",
 				"server_port": 80,
@@ -65,7 +65,7 @@
 				"config_mode": "ssh_proxy",
 				"url_check_user": "http://20.201.113.181:8888/server/online",
 				"config_openvpn": "",
-				"proxy_hostname": "104.16.53.111",
+				"proxy_hostname": "104.19.239.25",
 				"sort_order": 1,
 				"id": 4,
 				"proxy_port": 80,
@@ -117,7 +117,7 @@
 			{
 				"name": "TIM 02 [CLOUDFRONT]",
 				"config_v2ray": "",
-				"server_hostname": "",
+				"server_hostname": "104.19.239.25",
 				"description": "Operadora Tim [Servidor Brasileiro]",
 				"username": "",
 				"server_port": 80,
